@@ -6,9 +6,20 @@
 
 Netlify links to recently completed projects:
 
+Wanderlust Travel Blog:
+
+Made using React and Material UI
 https://ui-blog-page-wanderlust.netlify.app/
-https://rjordan-brainflix.netlify.app/
+
+Bandsite (Project from BrainStation Bootcamp):
+
+Made using HTML, Sass and Javascript
 https://rjordan-bandsite.netlify.app/
+
+BrainFlix (Project from BrainStation bootcamp)
+
+Made using React, Sass, Node JS and React Router
+https://rjordan-brainflix.netlify.app/
 
 More coming soon!
 
