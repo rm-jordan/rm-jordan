@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rm-jordan&label=Profile%20views&color=0e75b6&style=flat" alt="rm-jordan" /> </p>
 
-- 🔭  I’m currently working on **Web3 projects.**
+- 🔭  I’m currently working on **Web3 projects**
 
-- 🌱  I’m currently learning **about blockchain technology and Solidity**
+- 🌱  Currently learning **about blockchain technology and Solidity**
 
-- 👯  I’m looking to collaborate on **anything to grow my knowledge**
+- 👯  Always looking to collaborate **to grow my knowledge**
 
 - 📫  How to reach me **rmj.codes@gmail.com**
 
