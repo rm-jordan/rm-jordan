@@ -13,7 +13,7 @@
 
 - 📚  **Recent graduate from BrainStation's Web Development Bootcamp**
 
-- ⚡ Fun fact when I'm not coding I am **listening to a history podcast or reading about the Tokugawa Shogunate**
+- ⚡ When I'm not coding I am **listening to a history podcast or reading about the Tokugawa Shogunate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
