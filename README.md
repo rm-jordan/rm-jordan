@@ -14,6 +14,7 @@
 - 📚  **Recent graduate from BrainStation's Web Development Bootcamp**
 
 - ⚡ When I'm not coding I am **listening to a history podcast or reading about the Tokugawa Shogunate**
+- 🐙 Some of my completed projects are live heres the link **https://linktr.ee/rmjordan**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
