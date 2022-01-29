@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rm-jordan&label=Profile%20views&color=0e75b6&style=flat" alt="rm-jordan" /> </p>
 
-- 🔭  I’m currently working on **building apps with React Native**
+- 🔭  I’m currently working on **building applications with Go**
 
 - 🌱  Currently learning **about blockchain technology and Solidity**
 
