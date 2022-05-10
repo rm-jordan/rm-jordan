@@ -5,7 +5,7 @@
 
 - 🔭  I’m currently working on **building applications with the MERN Stack**
 
-- 🌱  Currently learning **about blockchain technology and Solidity**
+- 🌱  Currently learning **about MongoDB and other NoSQL databases**
 
 - 👯  Always looking to collaborate **to grow my knowledge**
 
