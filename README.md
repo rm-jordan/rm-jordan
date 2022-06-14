@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rm-jordan&label=Profile%20views&color=0e75b6&style=flat" alt="rm-jordan" /> </p>
 
-- 🔭  I’m currently working on **building applications with the MERN Stack**
+- 🔭  I’m currently working on **building applications Flutter**
 
-- 🌱  Currently learning **about MongoDB and other NoSQL databases**
+- 🌱  Currently learning **about Flutter and how to utilize the widgets**
 
 - 👯  Always looking to collaborate **to grow my knowledge**
 
