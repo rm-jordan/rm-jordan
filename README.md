@@ -12,6 +12,8 @@
 
 
 
+---
+[![](https://visitcount.itsvg.in/api?id=rm-jordan&icon=0&color=0)](https://visitcount.itsvg.in)
 <!---
 rm-jordan/rm-jordan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
