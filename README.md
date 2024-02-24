@@ -1,5 +1,5 @@
 # 💫 About Me:
-👹Software Engineer <br>🇨🇦 Based out of Toronto, Ontario<br>🪖 Currently working on expanding my knowledge of Typescript, MongoDB, Docker and for fun some React Native<br>🦑 When I'm not coding I am listening to a history podcast or watching a nature documentary
+👹Software Engineer <br>🇨🇦 Based out of Toronto, Ontario<br>🪖 Currently taking the Blazingly Fast Javascript course <br>🦑 When I'm not coding I am listening to a history podcast or watching a nature documentary
 
 
 # 💻 Tech Stack:
